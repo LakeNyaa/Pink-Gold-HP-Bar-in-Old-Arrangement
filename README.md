@@ -1,6 +1,4 @@
-# Pink-Gold-HP-Bar-in-Old-Arrangement
-Tera UI Mod
- 
+# HOW TO INSTALL
  
  Go to your Tera Directory which should either be
 
